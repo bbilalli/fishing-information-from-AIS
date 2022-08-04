@@ -7,3 +7,5 @@ Code to process AIS, Environmental and Fishing Repors data.
 <b>AIS</b>: Sample of the data used.
 <br>
 <b>Fishing reports</b>: Proprietary data, not provided.
+<br>
+<b>Integrated dataset</b>: A sample of the integrated dataset used for learning the models.
