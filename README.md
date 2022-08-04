@@ -1,4 +1,4 @@
-# Samples of Data and Code for the SIGSPATIAL 2022 submission  
+# Data and Code for the SIGSPATIAL 2022 submission  
 # Code
 Code to process AIS, Environmental and Fishing Repors data.
 # Data
