@@ -2,8 +2,8 @@
 # Code
 Code to process AIS, Environmental and Fishing Repors data.
 # Data
-Environmental data: All, together with the links where they can be found.
+<b>Environmental</b>: All, together with the links where they can be found.
 <br>
-AIS: sample of the data used
+<b>AIS</b>: Sample of the data used.
 <br>
-Fishing Repors: Proprietary data, not provided.
+<b>Fishing reports</b>: Proprietary data, not provided.
